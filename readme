@@ -1,0 +1,14 @@
+
+Ambiente virtual python
+    Criar:
+        python -m venv venv
+        venv\Scripts\activate
+
+    Ativar:
+        No Linux ou macOS:
+            source venv/bin/activate
+
+        No Windows:
+            venv\Scripts\activate
+
+
